@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">DriverList</string>
+    <string name="text_alcohol">Driver 1</string>
+    <string name="text_coffee">Driver 2</string>
+    <string name="text_pasta">Driver 3</string>
+    <string name="text_cold_drinks">Driver 4</string>
+    <string name="text_expanded">Expanded</string>
+    <string name="text_collapsed">Collapsed</string>
+
+
+
+    <string-array name="string_array_alcohol">
+        <item>Bus Number : 21G</item>
+           <item> Route : Thambaram-Broadway</item>
+           <item> Time : 7 AM</item>
+
+    </string-array>
+
+    <string-array name="string_array_coffee">
+        <item>Bus Number : 49F</item>
+           <item> Route : Mandhaveli-Poonamallee</item>
+           <item> Time : 7 AM</item>
+    </string-array>
+
+    <string-array name="string_array_pasta">
+        <item>Bus Number : 5E</item>
+             <item> Route : Besant nagar-Vadapalani</item>
+             <item> Time : 7 AM</item>
+    </string-array>
+
+    <string-array name="string_array_cold_drinks">
+        <item>Bus Number : T70</item>
+           <item> Route : CMBT-Thiruvanmiyur</item>
+            <item>Time : 7 AM</item>
+    </string-array>
+
+</resources>
